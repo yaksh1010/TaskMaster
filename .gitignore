@@ -25,3 +25,5 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+/Users/yaksh/GitHub/TaskMaster/lib/database/firebase_options.dart
