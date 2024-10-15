@@ -73,4 +73,4 @@ Please ensure that your code follows the project's style guidelines and that you
 For any questions or suggestions, please reach out to us:
 
 - **Email**: yakshdalwadi1002@gmail.com
-- **LinkedIn**: [Yakshraj](https://www.linkedin.com/in/yourprofile/)
+- **LinkedIn**: [Yakshraj](https://www.linkedin.com/in/yakshraj-dalwadi-85a940248/))
