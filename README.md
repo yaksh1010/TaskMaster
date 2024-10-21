@@ -1,6 +1,7 @@
 # Task Master
 
-<img width="944" alt="Screenshot 2024-10-15 at 11 49 32 AM" src="https://github.com/user-attachments/assets/e7651ae5-b65f-4674-ac54-bfa26bc0c348">
+<img width="947" alt="Taskmaster" src="https://github.com/user-attachments/assets/31d602ac-c5e1-46ae-b981-df40d4020f66">
+
 
 Task Master is a task assignment and management app designed for small-scale businesses, enabling business owners to delegate tasks and assign them to their employees. Built with Flutter, this app offers a simple and efficient way to track tasks, manage deadlines, and ensure smooth team coordination.
 
@@ -60,13 +61,16 @@ Please ensure that your code follows the project's style guidelines and that you
 
 ## Screenshots
 
-<img width="475" alt="1" src="https://github.com/user-attachments/assets/56064f7b-fcf3-4c28-b33a-78aeac071725">
-<img width="475" alt="2" src="https://github.com/user-attachments/assets/f3139825-f4d8-441b-af5b-0b22bed2d2ee">
-<img width="475" alt="3" src="https://github.com/user-attachments/assets/7513e695-c9e3-48fd-a65b-411606287bf5">
-<img width="475" alt="4" src="https://github.com/user-attachments/assets/174a8ae8-a145-4225-9518-582dc036cdbb">
-<img width="475" alt="5" src="https://github.com/user-attachments/assets/627dc812-173c-468e-b04e-012018f1be41">
-<img width="475" alt="6" src="https://github.com/user-attachments/assets/8d514b18-157d-4d10-a88e-66dd7cd819be">
-<img width="475" alt="7" src="https://github.com/user-attachments/assets/7ca2fbd1-283b-4d1a-b3b2-3def1bf08384">
+<img width="475" alt="1" src="https://github.com/user-attachments/assets/214e16de-e0fc-4fff-9c7e-b7322f6175fd">
+<img width="475" alt="2" src="https://github.com/user-attachments/assets/8fec4a18-79a8-4c0c-b4df-bdd0a4d96830">
+<img width="475" alt="3" src="https://github.com/user-attachments/assets/a773fde5-369a-4ba1-ba97-4cc3213fbf3d">
+<img width="475" alt="4" src="https://github.com/user-attachments/assets/93886e43-7a91-40ca-a20f-3ca1ccda652d">
+<img width="475" alt="5" src="https://github.com/user-attachments/assets/40c74892-4833-457f-92b7-9d0a9ab48e5c">
+<img width="475" alt="6" src="https://github.com/user-attachments/assets/86abfa54-f701-468d-8ed1-b8c7f260e86e">
+<img width="475" alt="7" src="https://github.com/user-attachments/assets/337ec94a-2fdf-4605-97bd-a92c7a3b3c24">
+<img width="475" alt="8" src="https://github.com/user-attachments/assets/030dd61b-3dd6-4f06-a456-6f4681ec34cf">
+<img width="475" alt="9" src="https://github.com/user-attachments/assets/20fcc8e2-da95-45fb-85b9-baca7ceb09a5">
+
 
 ## Contact
 
