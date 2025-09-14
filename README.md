@@ -1,5 +1,5 @@
 
-# Call me or Whatsapp me at +91 8128705031 !!!
+# DO NOT REPLY ON FREELANCER and Call me or Whatsapp me at +91 8128705031 !!!
 
 # Task Master
 
